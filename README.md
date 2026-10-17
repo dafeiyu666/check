@@ -6,7 +6,7 @@
 
 ## 项目简介
 
-这是一个从现有成品中**开源**出来的游戏版本更新检测项目，整套检测逻辑基于 **Cloudflare Worker + JavaScript** 实现，支持检测以下游戏的版本更新：
+这是一个游戏版本更新检测项目，整套检测逻辑基于 **Cloudflare Worker + JavaScript** 实现，支持检测以下游戏的版本更新：
 
 - 和平精英
 - BETA PUBGM
