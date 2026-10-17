@@ -6,7 +6,7 @@
 
 ## About
 
-An **open-source** game version update checker, extracted from an existing production build, running entirely on **Cloudflare Workers** in JavaScript. It supports version checks for:
+An game version update checker, extracted from an existing production build, running entirely on **Cloudflare Workers** in JavaScript. It supports version checks for:
 
 - Game for Peace (和平精英)
 - BETA PUBGM
