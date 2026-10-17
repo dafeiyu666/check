@@ -6,7 +6,7 @@
 
 ## About
 
-An game version update checker, extracted from an existing production build, running entirely on **Cloudflare Workers** in JavaScript. It supports version checks for:
+This is a game version update detection project. The entire detection logic is implemented based on Cloudflare Worker + JavaScript, and it supports detecting version updates for the following games:
 
 - Game for Peace (和平精英)
 - BETA PUBGM
